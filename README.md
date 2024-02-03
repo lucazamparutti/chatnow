@@ -1,18 +1,22 @@
-# ChatNow - 
+# ChatNow - Chat Web Application
 
 ## Table of contents
 * [General info](#general-info)
+* [How It Works](#how-it-works)
 * [Technologies](#technologies)
 
 ## General info
 
 
+## How It Works
+
+
 ## Technologies
-Project is created with:
+The project is created with:
 * HTML
 * CSS
 * Javascript
-* PHP, SQL
+* PHP, mySQL
 
 <!--
 ![Project Image](https://i.imgur.com/ZALRBjH.png)
